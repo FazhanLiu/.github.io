@@ -1,0 +1,4 @@
+baseURL = "https://FazhanLiu.github.io/"
+languageCode = "zh-cn"
+title = "流水账"
+theme = "PaperMod"
